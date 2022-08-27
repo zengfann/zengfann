@@ -7,7 +7,7 @@ Hellow there👋
 ![](https://github.com/zengfann/zengfann/blob/master/icons/header_1.png)
 
 ## Stats
-<p aligin = "center">
+<p align = "center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann&layout=compact)](https://github.com/zengfann)
 
 [![zengfann's GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann)](https://github.com/zengfann)
