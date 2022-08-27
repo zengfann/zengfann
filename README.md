@@ -4,7 +4,7 @@ Hellow there👋
 
  I'm ZengFan!
 
-![](https://github.com/zengfann/zengfann/blob/master/icons/header_1.png)
+![](https://github.com/zengfann/zengfann/icons/header_1.png)
 
 ## Stats
 <p align = "center">
@@ -12,7 +12,7 @@ Hellow there👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann&layout=compact)](https://github.com/zengfann)
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann)](https://github.com/zengfann)
-<p>
+</p>
 ## Languages and Tools
 
 <p>
