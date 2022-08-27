@@ -7,11 +7,11 @@ Hellow there👋
 ![image](https://github.com/zengfann/zengfann/blob/main/icons/header_1.png)
 
 ## Stats
-</p align = "center">
-
+<p align = "left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann&layout=compact)](https://github.com/zengfann)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann)](https://github.com/zengfann)
+</p>
+<p align = "right">
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann)](https://github.com/zengfann)
 </p>
 ## Languages and Tools
 
