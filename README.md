@@ -4,7 +4,7 @@ Hellow there👋
 
  I'm ZengFan!
 
-![image]((https://github.com/zengfann/zengfann/blob/main/icons/header_1.png)
+![image](https://github.com/zengfann/zengfann/blob/main/icons/header_1.png)
 
 ## Stats
 </p align = "center">
