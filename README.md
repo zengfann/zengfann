@@ -8,9 +8,9 @@ Hellow there👋
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann&layout=compact)](https://github.com/zengfann)
-<p align = "right">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann)](https://github.com/zengfann)
-</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann&algin=right)](https://github.com/zengfann)
+
 ## Languages and Tools
 
 <p>
