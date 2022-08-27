@@ -8,8 +8,7 @@ Hellow there👋
 
 ## Stats
 <p align = "center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann&layout=compact)](https://github.com/zengfann)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann)](https://github.com/zengfann/github-readme-stats)
 [![zengfann's GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann)](https://github.com/zengfann)
 <p>
 ## Languages and Tools
