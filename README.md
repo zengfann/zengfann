@@ -7,9 +7,10 @@ Hellow there👋
 ![image](https://github.com/zengfann/zengfann/blob/main/icons/header_1.png)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfann&layout=compact)](https://github.com/zengfann)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zengfann&algin=right)](https://github.com/zengfann)
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=zengfann.zengfann" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zengfann.zengfann" alt="visitor badge"/>       
+</p
 
 ## Languages and Tools
 
