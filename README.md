@@ -2,7 +2,8 @@
 
 Hellow there👋
 
- I'm ZengFan!
+I'm ZengFan!   A coding rookie
+
 
 ![image](https://github.com/zengfann/zengfann/blob/main/icons/header_1.png)
 
